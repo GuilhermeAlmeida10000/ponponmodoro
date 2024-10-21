@@ -1,6 +1,4 @@
-
-
-![Banner Ponponmodoro](trabalho-progweb/Ponponmodoro (Telas)/Tela Inicial.png)
+<img src = "ponponmodoro/Ponponmodoro (Telas)/Tela Inicial.png">
 
 # Trabalho Programação Web - Ponponmodoro
 
@@ -41,10 +39,10 @@ O método Pomodoro é uma técnica de gerenciamento de tempo que divide o trabal
 
 ## Capturas de Tela
 ### Tela Inicial
-![Tela Inicial](trabalho-progweb/Ponponmodoro (Telas)/Tela Inicial.png)
+<img src = "ponponmodoro/Ponponmodoro (Telas)/Tela Inicial.png">
 
 ### Tela de Gerenciamento de Tarefas
-![Tela Tarefas](trabalho-progweb/Ponponmodoro (Telas)/Tela Tarefas.png)
+<img src = "ponponmodoro/Ponponmodoro (Telas)/Tela Tarefas.png">
 
 ## Como Usar
 1. **Configuração do Timer:** Defina os tempos de trabalho e descanso conforme necessário.
